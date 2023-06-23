@@ -10,6 +10,8 @@
 * [Blockchain Architecture 101: Components, Structure, and Benefits](https://komodoplatform.com/en/academy/blockchain-architecture-101/)
 * [Blockchain structure](https://resources.infosecinstitute.com/topic/blockchain-structure/)
 * [Blockchain Basics | Coursera](https://www.coursera.org/lecture/blockchain-basics/blockchain-structure-5rj9Z)
+* [Blockchain Basics: Structure, Operations, and the Bitcoin Blockchain](https://www.mlq.ai/blockchain-basics/)
+* [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 # Decentralisation
 * [What is Decentralisation?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
